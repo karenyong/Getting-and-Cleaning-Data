@@ -12,7 +12,7 @@ Steps to work on this course project include:
 
 4. Include a README.md which explains how the scripts work and are connected.
 
-5. Upload run_analysis.R, Tidy.txt, Codebook.md and README.md to Github repository.
+5. Upload run_analysis.R, Codebook.md and README.md to Github repository.
 
 Create an R script called run_analysis.R that does the following:
 
