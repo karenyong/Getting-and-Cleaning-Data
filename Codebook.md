@@ -56,7 +56,7 @@ These signals were used to estimate variables of the feature vector for each pat
 7. Use complete list of column indices to extract the relevant data from the complete dataframe created in step 5.
 8. For columns with abbreviated names (i.e. t, f, BodyBody, Acc, Gyro, and Mag), add full descriptions obtained from 'features_info.txt' file. Also, remove hyphens and parentheses from column names.
 9. Next, group the data by subject and activity, and calculate the mean for every measurement column. 
-10. Data is then written into file called 'tidy.txt'.
+10. Data is then written into file called 'Tidy.txt'.
 
 **Columns in output file('Tidy.txt')**
 
